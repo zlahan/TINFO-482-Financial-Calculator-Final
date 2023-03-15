@@ -1,0 +1,13 @@
+input[type=text] {
+    width: 15%;
+    padding: 5px 5px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(0, 0, 0);
+  }
+
+  h2 {
+    color: white
+  }
